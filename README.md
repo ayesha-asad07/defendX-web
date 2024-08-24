@@ -20,7 +20,7 @@ The DefendX landing page is designed to showcase the key features, importance, a
 
              DefendX-Web/ │
                           ├── app.py # Flask application code
-                          ├── static/ │
+                          ├── static/ │   js 
                           │           └── styles.css # Custom CSS styles
                           ├── templates/ │
                           │              └── index.html # HTML template for the landing page
