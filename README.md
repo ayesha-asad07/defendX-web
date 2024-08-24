@@ -2,7 +2,7 @@
 
 A landing page for the DefendX project, featuring Flask backend integration, custom CSS design, and deployment-ready configurations for Vercel.
 
-## 🌟 Project Overview
+## Project Overview
 
 The DefendX landing page is designed to showcase the key features, importance, and benefits of the project in a visually appealing and user-friendly interface. It includes sections like:
 
@@ -10,15 +10,23 @@ The DefendX landing page is designed to showcase the key features, importance, a
 - **User Feedback:** Testimonials and reviews from users.
 - **Team Info:** Meet the developers behind the project.
 
-## 🚀 Key Features
+## Key Features
 
 - **Flask Integration:** Backend logic handled using Flask in `app.py`.
 - **CSS Styling:** Custom-designed interface with CSS for a professional look.
 - **Vercel Deployment:** Configured for seamless deployment on Vercel.
 
-## 📂 Project Structure
+## Project Structure
 
-DefendX-Web/ │ ├── app.py # Flask application code ├── static/ │ └── styles.css # Custom CSS styles ├── templates/ │ └── index.html # HTML template for the landing page ├── requirements.txt # Python dependencies ├── vercel.json # Vercel deployment configuration └── README.md # Project documentation
+          DefendX-Web/ │
+                          ├── app.py # Flask application code
+                          ├── static/ │
+                          │           └── styles.css # Custom CSS styles
+                          ├── templates/ │
+                          │              └── index.html # HTML template for the landing page
+                          ├── requirements.txt # Python dependencies
+                          ├── vercel.json # Vercel deployment configuration
+                          └── README.md # Project documentation
 
 
 ## ⚙️ Getting Started
@@ -28,19 +36,19 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/defendX-web.git
+   git clone https://github.com/ayesha-asad07/defendX-web.git
 Navigate to the project directory:
 
-    ```bash
+    
       cd defendX-web
 
 Install the dependencies:
 
-    ```bash
+    
        pip install -r requirements.txt
 Run the Flask application:
     
-    ```bash
+    
         python app.py
 Access the UI:
 
