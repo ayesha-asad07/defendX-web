@@ -18,7 +18,7 @@ The DefendX landing page is designed to showcase the key features, importance, a
 
 ## Project Structure
 
-          DefendX-Web/ │
+             DefendX-Web/ │
                           ├── app.py # Flask application code
                           ├── static/ │
                           │           └── styles.css # Custom CSS styles
@@ -33,10 +33,10 @@ The DefendX landing page is designed to showcase the key features, importance, a
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
+Clone the repository:
 
-   ```bash
-   git clone https://github.com/ayesha-asad07/defendX-web.git
+     ```bash
+       git clone https://github.com/ayesha-asad07/defendX-web.git
 Navigate to the project directory:
 
     
@@ -55,12 +55,12 @@ Access the UI:
 Open your browser and go to http://127.0.0.1:5000 to view the landing page.
 
 🌐 Deployment
-The project is configured for deployment on Vercel. Make sure to include the necessary environment variables and settings in your vercel.json file.
+- The project is configured for deployment on Vercel. Make sure to include the necessary environment variables and settings in your vercel.json file.
 
 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the LICENSE file for details.
 
-Thank you for checking out DefendX! We hope you enjoy exploring the project as much as we enjoyed building it.
+- Thank you for checking out DefendX! We hope you enjoy exploring the project as much as we enjoyed building it.
 
 
 
