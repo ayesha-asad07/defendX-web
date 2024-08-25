@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-     ```bash
+     
        git clone https://github.com/ayesha-asad07/defendX-web.git
 Navigate to the project directory:
 
